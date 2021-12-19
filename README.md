@@ -1,3 +1,9 @@
+# GOSTCoin Wallet for Android
+
+## Project status: Initial stages, not ready for use.
+
+## Old obsolete info follows, please ignore
+
 Welcome to _Dash Wallet_, a standalone Dash payment app for your Android device!
 
 This project contains several sub-projects:
